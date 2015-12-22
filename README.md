@@ -1,2 +1,2 @@
 # kcomics
-A Latex package to create comics panel-like figures.
+A Latex package to create comic strip-like figures.
